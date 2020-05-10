@@ -1,6 +1,6 @@
 <img src="https://scontent.flim16-3.fna.fbcdn.net/v/t1.0-9/58711623_291181928450310_5112829485493780480_o.png?_nc_cat=104&_nc_sid=85a577&_nc_eui2=AeG1IOqjA3DdgnmvaUUG_IuLOPVLxdJ-Ov049UvF0n46_aju11Ags7x4ZaOjOG9qKUh-9sZrmjM-LKUlHiWXSS-t&_nc_ohc=fvdQ1HQvJNkAX_JOugx&_nc_ht=scontent.flim16-3.fna&oh=8cdd0e0aaaa63eaa6bcc94cc4924add1&oe=5EC93E09" width="200" height="200" />
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmariogl.com%2Faprender-git-empezando-con-git%2F&psig=AOvVaw2dTQBg8fxIDHQauml6CblF&ust=1589172192232000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjis_W9qOkCFQAAAAAdAAAAABAI" />
+<img src="https://www.syloper.com/wp-content/uploads/git_destacada-1024x426.png" />
 # Reto práctico de git - github
 
 ## Finalidad del reto que pongan en práctica y utilicen los comandos principales:
